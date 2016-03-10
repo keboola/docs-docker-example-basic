@@ -14,3 +14,4 @@ while ($row = fgetcsv($fhIn)) {
 
 fclose($fhIn);
 fclose($fhOut);
+echo "All done";
