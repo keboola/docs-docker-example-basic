@@ -1,3 +1,3 @@
-# Docker extension example - Basic
+# Component example
 
-Example repository for Documentation of Docker extensions. See [documentation](https://developers.keboola.com/extend/component/docker-tutorial/registry/) for usage instructions.
+Example repository for Documentation of KBC components development. See [documentation](https://developers.keboola.com/extend/component/docker-tutorial/registry/) for usage instructions.
